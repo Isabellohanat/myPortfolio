@@ -104,7 +104,6 @@ body {
   
   /* -------  Modifier styles ------- */
   
-  .border-top {
-    padding-top: 80px;
-    border-top: 2px solid #c4277d;
+  hr {
+    color: #c4277d;
   }
